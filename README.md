@@ -9,3 +9,5 @@ This project exist to preserve code for a very simple digital signage appliance.
 - [ ] Update client
   - [ ] Add socket for forced restarts/updates
   - [ ] Video support
+- [ ] Installer script (bash)
+- [ ] Installer script (python)
